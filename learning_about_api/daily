@@ -1,0 +1,7 @@
+#!env bash
+
+DATE=`date +%s`
+SYMBOL=$1
+
+curl -sS -v "https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=${SYMBOL}&apikey=${ALPHAVANTAGE_API_KEY}" \
+  -o "data/${SYMBOL}.daily.${DATE}.json" 2> "data/${SYMBOL}.daily.${DATE}.log"

@@ -1,0 +1,2598 @@
+{
+    "items": "50",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+        {
+            "title": "Members of Congress Are Pouring Millions Into These 7 Surprising Stocks",
+            "url": "https://www.fool.com/investing/2025/06/17/members-of-congress-are-pouring-millions-into-thes/",
+            "time_published": "20250617T133328",
+            "authors": [
+                "Neil Rozenbaum"
+            ],
+            "summary": "In this video, I will review some of the stock purchases made by members of the U.S. Congress. Politicians such as Nancy Pelosi and Marjorie Taylor Greene, among others, have acquired significant amounts of stock over the years.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/821976/gettyimages-1067591998.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.2"
+                }
+            ],
+            "overall_sentiment_score": -0.369597,
+            "overall_sentiment_label": "Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ADBE",
+                    "relevance_score": "0.401331",
+                    "ticker_sentiment_score": "-0.419322",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AMAT",
+                    "relevance_score": "0.401331",
+                    "ticker_sentiment_score": "-0.419322",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.70749",
+                    "ticker_sentiment_score": "-0.547495",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AMGN",
+                    "relevance_score": "0.401331",
+                    "ticker_sentiment_score": "-0.419322",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.401331",
+                    "ticker_sentiment_score": "-0.419322",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Here's How Many Shares of Realty Income Stock You Should Own to Get $500 in Yearly Dividends",
+            "url": "https://www.fool.com/investing/2025/06/16/heres-shares-realty-income-stock-own-500/",
+            "time_published": "20250616T090300",
+            "authors": [
+                "Will Healy"
+            ],
+            "summary": "Realty Income ( NYSE: O ) has evolved into a massive cash generator for its long-term investors. Known as the \"monthly dividend company,\" it has paid a monthly dividend and increased its payout at least once per year since it initiated such payments in 1994.Despite its gains, Realty Income's ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F821349%2Frealty_income_logo_on_phone_o.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                }
+            ],
+            "overall_sentiment_score": 0.310655,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "HD",
+                    "relevance_score": "0.129516",
+                    "ticker_sentiment_score": "0.212924",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.129516",
+                    "ticker_sentiment_score": "0.212924",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "DLTR",
+                    "relevance_score": "0.129516",
+                    "ticker_sentiment_score": "0.212924",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "O",
+                    "relevance_score": "0.485711",
+                    "ticker_sentiment_score": "0.297837",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "3 Magnificent S&P 500 Stocks Down Between 16% and 21% to Buy on the Dip",
+            "url": "https://www.fool.com/investing/2025/06/15/3-magnificent-sp-500-stocks-down-between-16-and-21/",
+            "time_published": "20250615T133000",
+            "authors": [
+                "Josh Kohn-Lindquist"
+            ],
+            "summary": "And just like that, the S&P 500 index is nearing all-time highs again.As unlikely as this may have seemed two months ago, the stock market dismissed numerous fears and pushed many growth stocks to new highs. However, not all S&P 500 stocks took part in this recovery.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F821158%2Fgettyimages-1326757307-1.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.650727"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.22459,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CPRT",
+                    "relevance_score": "0.305058",
+                    "ticker_sentiment_score": "0.139739",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RBA",
+                    "relevance_score": "0.078099",
+                    "ticker_sentiment_score": "0.196226",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSI",
+                    "relevance_score": "0.078099",
+                    "ticker_sentiment_score": "0.118686",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.231332",
+                    "ticker_sentiment_score": "0.113514",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "This Reliable Dividend Stock Is Up Over 8,851% Since Its IPO. Here's Why It's a Buy Now.",
+            "url": "https://www.fool.com/investing/2025/06/14/this-reliable-dividend-stock-is-up-over-8851-since/",
+            "time_published": "20250614T084100",
+            "authors": [
+                "Cory Renauer"
+            ],
+            "summary": "Enormous sums of money flowing through Wall Street banks have been attracting the world's most talented financial minds for generations. You might be shocked to learn that in any given year, most fail to outperform the benchmark S&P 500 ( SNPINDEX: ^GSPC ) index.Last year, a little over one-fifth ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F821401%2Finvestor-shopping-stocks-at-home-getty.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.962106"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.283704,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MCO",
+                    "relevance_score": "0.055364",
+                    "ticker_sentiment_score": "0.13287",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.055364",
+                    "ticker_sentiment_score": "0.13287",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HD",
+                    "relevance_score": "0.055364",
+                    "ticker_sentiment_score": "0.103854",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.055364",
+                    "ticker_sentiment_score": "0.103854",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "O",
+                    "relevance_score": "0.421485",
+                    "ticker_sentiment_score": "0.327615",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Momentum in Pet Business: A Catalyst for CL's Growth Phase?",
+            "url": "https://www.zacks.com/stock/news/2494895/momentum-in-pet-business-a-catalyst-for-cls-growth-phase",
+            "time_published": "20250611T175500",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Colgate sharpens its competitive edge in pet care, aiming to seize more market share.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/46/1313.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.390388,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CHWY",
+                    "relevance_score": "0.183198",
+                    "ticker_sentiment_score": "0.29428",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CL",
+                    "relevance_score": "0.31482",
+                    "ticker_sentiment_score": "0.391875",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.31482",
+                    "ticker_sentiment_score": "0.311803",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "WM",
+                    "relevance_score": "0.046184",
+                    "ticker_sentiment_score": "0.140364",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CENT",
+                    "relevance_score": "0.183198",
+                    "ticker_sentiment_score": "0.159363",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Tailwinds in Pet Business: A Catalyst for TSCO's Growth Phase?",
+            "url": "https://www.zacks.com/stock/news/2493133/tailwinds-in-pet-business-a-catalyst-for-tscos-growth-phase",
+            "time_published": "20250610T174900",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Tractor Supply enhances presence in the pet space, leveraging its Petsense stores, the Allivet integration and the Tractor Supply Rx medications.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/9d/1384.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.370851,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CHWY",
+                    "relevance_score": "0.179121",
+                    "ticker_sentiment_score": "0.289838",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CL",
+                    "relevance_score": "0.134841",
+                    "ticker_sentiment_score": "0.109983",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.634884",
+                    "ticker_sentiment_score": "0.463137",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "WM",
+                    "relevance_score": "0.045139",
+                    "ticker_sentiment_score": "0.140081",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CENT",
+                    "relevance_score": "0.179121",
+                    "ticker_sentiment_score": "0.156834",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Tractor Supply: A Strong Performer in a Challenging Retail Landscape",
+            "url": "https://www.fool.com/investing/2025/06/09/tractor-supply-a-strong-performer-in-a-challenging/",
+            "time_published": "20250609T230000",
+            "authors": [
+                "Motley Fool YouTube"
+            ],
+            "summary": "Explore the exciting world of Tractor Supply ( NASDAQ: TSCO ) with our expert analysts in this Motley Fool Scoreboard episode. Check out the video below to gain valuable insights into market trends and potential investment opportunities!*Stock prices used were the prices of April 30, 2025.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/820582/copy-of-tmf-yt-thumbnails.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.548427,
+            "overall_sentiment_label": "Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.876064",
+                    "ticker_sentiment_score": "-0.787981",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "GrowGeneration Acquires Viagrow, Expands into Big Box Retail and the Home Gardening Market - GrowGeneration  ( NASDAQ:GRWG ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/06/g45833892/growgeneration-acquires-viagrow-expands-into-big-box-retail-and-the-home-gardening-market",
+            "time_published": "20250609T120000",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "DENVER, June 09, 2025 ( GLOBE NEWSWIRE ) -- GrowGeneration Corp.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "Mergers",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                }
+            ],
+            "overall_sentiment_score": 0.245574,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GRWG",
+                    "relevance_score": "0.258351",
+                    "ticker_sentiment_score": "0.084519",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HD",
+                    "relevance_score": "0.05257",
+                    "ticker_sentiment_score": "0.187654",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.05257",
+                    "ticker_sentiment_score": "0.187654",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "WMT",
+                    "relevance_score": "0.05257",
+                    "ticker_sentiment_score": "0.187654",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "TOPDON US Grows Retail Presence Across the Country Through Bass Pro Shops, West Marine, AutoZone, Big 5 Sporting Goods and Tractor Supply",
+            "url": "https://www.benzinga.com/pressreleases/25/06/g45749808/topdon-us-grows-retail-presence-across-the-country-through-bass-pro-shops-west-marine-autozone-big",
+            "time_published": "20250603T145905",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "ROCKAWAY, NEW JERSEY, June 03, 2025 ( GLOBE NEWSWIRE ) -- TOPDON US ( https://www.topdon.us/ ) , the premier provider of cutting-edge technology and advanced tools for auto repair professionals and enthusiasts, announced today the company's expansion into national retail stores including Bass ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.415021,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.068112",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.068112",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BGFV",
+                    "relevance_score": "0.135729",
+                    "ticker_sentiment_score": "0.234817",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.202366",
+                    "ticker_sentiment_score": "0.319578",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AZO",
+                    "relevance_score": "0.135729",
+                    "ticker_sentiment_score": "0.213078",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "ODP vs. TSCO: Which Stock Is the Better Value Option?",
+            "url": "https://www.zacks.com/stock/news/2478418/odp-vs-tsco-which-stock-is-the-better-value-option",
+            "time_published": "20250528T154011",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Investors looking for stocks in the Retail - Miscellaneous sector might want to consider either ODP Corp. ( ODP Quick QuoteODP - ) or Tractor Supply ( TSCO Quick QuoteTSCO - ) . But which of these two stocks offers value investors a better bang for their buck right now?",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default59.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.838487"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.479146,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.597213",
+                    "ticker_sentiment_score": "0.519073",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "1 Excellent Dividend Stock to Buy Right Now",
+            "url": "https://www.fool.com/investing/2025/05/27/1-excellent-dividend-stock-to-buy-right-now/",
+            "time_published": "20250527T170500",
+            "authors": [
+                "Daniel Sparks"
+            ],
+            "summary": "The stock may be down, but its dividend keeps increasing, and management is aggressively buying back its stock.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F819417%2Fwalmart-stock-dividend.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.976913"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999365"
+                }
+            ],
+            "overall_sentiment_score": 0.256108,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.401331",
+                    "ticker_sentiment_score": "0.339821",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "How Should Investors Approach TSCO Stock After an 11% Dip in 3 Months?",
+            "url": "https://www.zacks.com/stock/news/2476843/how-should-investors-approach-tsco-stock-after-an-11-dip-in-3-months",
+            "time_published": "20250523T155000",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Tractor Supply stock lags as weak demand, rising costs and a premium valuation raise investor concern amid ongoing profit pressures.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/9d/1384.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.890401"
+                }
+            ],
+            "overall_sentiment_score": 0.053425,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SFIX",
+                    "relevance_score": "0.142144",
+                    "ticker_sentiment_score": "-0.038681",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.408949",
+                    "ticker_sentiment_score": "-0.07673",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOS",
+                    "relevance_score": "0.17715",
+                    "ticker_sentiment_score": "-0.008978",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Billionaire CEO Jamie Dimon Says if You Could Put All Your Money in One Country, It Would Still Be America. 3 Great U.S. Stocks to Consider in 2025.",
+            "url": "https://www.fool.com/investing/2025/05/18/billionaire-ceo-jamie-dimon-says-if-you-could-put/",
+            "time_published": "20250518T083900",
+            "authors": [
+                "Jon Quast"
+            ],
+            "summary": "In 2008, the U.S. economy was in turmoil, and yet investing great Warren Buffett wrote an op-ed column for The New York Times entitled: \"Buy American. I Am.\" That was good advice.Consider that the S&P 500 -- an index of around 500 of the most important U.S. companies -- is up more than 500% since ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F818483%2Famerican-flag-in-the-shape-of-the-country.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.98396"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.961735"
+                }
+            ],
+            "overall_sentiment_score": 0.288604,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NYT",
+                    "relevance_score": "0.037329",
+                    "ticker_sentiment_score": "0.174146",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.221145",
+                    "ticker_sentiment_score": "0.163545",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FND",
+                    "relevance_score": "0.074576",
+                    "ticker_sentiment_score": "0.104962",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TXRH",
+                    "relevance_score": "0.221145",
+                    "ticker_sentiment_score": "0.228283",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "ODP or TSCO: Which Is the Better Value Stock Right Now?",
+            "url": "https://www.zacks.com/stock/news/2466945/odp-or-tsco-which-is-the-better-value-stock-right-now",
+            "time_published": "20250512T154014",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "ODP vs. TSCO: Which Stock Is the Better Value Option?",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default101.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.890401"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.475358,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.599092",
+                    "ticker_sentiment_score": "0.501395",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Sellars Celebrates 40 Years of Cleanups with \"Messy Moments\" Giveaway",
+            "url": "https://www.benzinga.com/pressreleases/25/04/n45112750/sellars-celebrates-40-years-of-cleanups-with-messy-moments-giveaway",
+            "time_published": "20250430T182100",
+            "authors": [
+                "PRNewswire"
+            ],
+            "summary": "MILWAUKEE, April 30, 2025 /PRNewswire/ -- Sellars, a Milwaukee company that was built on cleaning up spills, splashes and drips, is looking for \"Messy Moments.\" As part of its 40th anniversary, Sellars wants anyone and everyone to submit any mess they've caused or encountered - whether it's at ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.138367,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "HD",
+                    "relevance_score": "0.05833",
+                    "ticker_sentiment_score": "0.076977",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.05833",
+                    "ticker_sentiment_score": "0.076977",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.05833",
+                    "ticker_sentiment_score": "0.096923",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "5 Stocks In The Spotlight Last Week: Wall Street's Most Accurate Analysts Weigh In - Century Communities  ( NYSE:CCS ) , Chipotle Mexican Grill  ( NYSE:CMG ) ",
+            "url": "https://www.benzinga.com/analyst-ratings/price-target/25/04/45035728/5-stocks-in-the-spotlight-last-week-wall-streets-most-accurate-analysts-weigh-in",
+            "time_published": "20250428T112812",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "U.S. stocks settled higher on Friday, with the Nasdaq Composite jumping more than 1% during the session. Major indices also recorded gains last week, with the S&P 500 adding 4.6% and the Nasdaq jumping 6.7%. The Dow also notched a weekly gain of 2.5%. Wall Street analysts make new stock picks on ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/04/28/Analyst-Works-On-Personal-Computer-Showi.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999999"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.818451"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.159955,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "APG",
+                    "relevance_score": "0.063594",
+                    "ticker_sentiment_score": "0.101064",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.126784",
+                    "ticker_sentiment_score": "-0.091549",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CCS",
+                    "relevance_score": "0.189175",
+                    "ticker_sentiment_score": "-0.126005",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CMG",
+                    "relevance_score": "0.189175",
+                    "ticker_sentiment_score": "-0.152729",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.126784",
+                    "ticker_sentiment_score": "0.03354",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NOW",
+                    "relevance_score": "0.126784",
+                    "ticker_sentiment_score": "0.156954",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Tractor Supply's Q1 Earnings Lag Estimates, Comps Down 0.9% Y/Y",
+            "url": "https://www.zacks.com/stock/news/2455263/tractor-supplys-q1-earnings-lag-estimates-comps-down-09-yy",
+            "time_published": "20250424T173600",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "TSCO's first-quarter results show a 0.9% drop in comps. Management updates its 2025 outlook in response to increased uncertainty, including new tariffs.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/a0/644.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.99237"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.858979"
+                }
+            ],
+            "overall_sentiment_score": 0.0998,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "JWN",
+                    "relevance_score": "0.137409",
+                    "ticker_sentiment_score": "0.163348",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.436009",
+                    "ticker_sentiment_score": "0.12007",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "URBN",
+                    "relevance_score": "0.182506",
+                    "ticker_sentiment_score": "0.173382",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GAP",
+                    "relevance_score": "0.137409",
+                    "ticker_sentiment_score": "0.075911",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Tractor Supply Q1 Results: Earnings Miss, Revenue Outlook Widened - Tractor Supply  ( NASDAQ:TSCO ) ",
+            "url": "https://www.benzinga.com/25/04/44984353/tractor-supply-q1-results-earnings-miss-revenue-outlook-widened-more",
+            "time_published": "20250424T150611",
+            "authors": [
+                "Nabaparna Bhattacharya"
+            ],
+            "summary": "Q1 EPS came in at $0.34 vs $0.36 estimate; comparable store sales fell 0.9% despite net sales rising 2.1% YoY. Gross margin improved to 36.2% due to cost discipline, but FY25 EPS guidance was lowered amid tariff and macro concerns. Don't face extreme market conditions unprepared.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/04/24/Tractor-Supply-Company-Store-Sign--Manas.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.976913"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                }
+            ],
+            "overall_sentiment_score": 0.164385,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.514619",
+                    "ticker_sentiment_score": "0.132204",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Tractor Supply: Mixed Earnings Signal",
+            "url": "https://www.fool.com/data-news/2025/04/24/tractor-supply-mixed-earnings-signal/",
+            "time_published": "20250424T123734",
+            "authors": [
+                "JesterAI"
+            ],
+            "summary": "Tractor Supply reported mixed results for the first quarter of 2025, with a slight revenue growth yet declining earnings per share.",
+            "banner_image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/2e67fde4d458002cf59f26acf09dd58f97b62ce0-1024x1024.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999491"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.172764,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.367865",
+                    "ticker_sentiment_score": "0.331943",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Tractor Supply  ( TSCO )  Lags Q1 Earnings and Revenue Estimates",
+            "url": "https://www.zacks.com/stock/news/2454483/tractor-supply-tsco-lags-q1-earnings-and-revenue-estimates",
+            "time_published": "20250424T120505",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Tractor Supply (TSCO) delivered earnings and revenue surprises of -8.11% and 2.29%, respectively, for the quarter ended March 2025. Do the numbers hold clues to what lies ahead for the stock?",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default111.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999997"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                }
+            ],
+            "overall_sentiment_score": 0.119444,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.402403",
+                    "ticker_sentiment_score": "0.027734",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "TSCO Introduces Tractor Supply Rx to Facilitate Pet Pharmacy Offerings",
+            "url": "https://www.zacks.com/stock/news/2454052/tsco-introduces-tractor-supply-rx-to-facilitate-pet-pharmacy-offerings",
+            "time_published": "20250423T165000",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Tractor Supply's strategic efforts seem encouraging. The company launches Tractor Supply Rx to offer suitable and low-cost pet and animal pharmacy.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/9d/1384.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.314123,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.484697",
+                    "ticker_sentiment_score": "0.434373",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "BOOT",
+                    "relevance_score": "0.171688",
+                    "ticker_sentiment_score": "0.155764",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "URBN",
+                    "relevance_score": "0.282234",
+                    "ticker_sentiment_score": "0.224721",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Tractor Supply Pre-Q1 Earnings: Should You Buy Amid Positive Trends?",
+            "url": "https://www.zacks.com/stock/news/2452008/tractor-supply-pre-q1-earnings-should-you-buy-amid-positive-trends",
+            "time_published": "20250421T154400",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "TSCO's first-quarter results are likely to show sales growth, driven by strategic initiatives and strong customer engagement amid near-term cost pressure.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/9d/1384.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.858979"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.205849,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "KSS",
+                    "relevance_score": "0.158519",
+                    "ticker_sentiment_score": "0.024649",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CASY",
+                    "relevance_score": "0.119235",
+                    "ticker_sentiment_score": "0.055519",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.451494",
+                    "ticker_sentiment_score": "0.367615",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "DKS",
+                    "relevance_score": "0.158519",
+                    "ticker_sentiment_score": "0.022898",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Stay Ahead of the Game With Tractor Supply  ( TSCO )  Q1 Earnings: Wall Street's Insights on Key Metrics",
+            "url": "https://www.zacks.com/stock/news/2451698/stay-ahead-of-the-game-with-tractor-supply-tsco-q1-earnings-wall-streets-insights-on-key-metrics",
+            "time_published": "20250421T131556",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Beyond analysts' top -and-bottom-line estimates for Tractor Supply (TSCO), evaluate projections for some of its key metrics to gain a better insight into how the business might have performed for the quarter ended March 2025.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default252.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.988787"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.141626,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.618426",
+                    "ticker_sentiment_score": "0.286169",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Tractor Supply Earnings Outlook Brightens With 2025 Profit Growth Potential, Says Analyst - Tractor Supply  ( NASDAQ:TSCO ) ",
+            "url": "https://www.benzinga.com/analyst-ratings/price-target/25/04/44877490/tractor-supply-earnings-outlook-brightens-with-2025-profit-growth-potential-says-ana",
+            "time_published": "20250417T201127",
+            "authors": [
+                "Shivani Kumaresan"
+            ],
+            "summary": "Analyst forecasts 4.8% Q1 sales growth for Tractor Supply. Gross margin to rise, but SG&A costs could pressure profits. China's new tariffs just reignited the same market patterns that led to triple- and quadruple-digit wins for Matt Maley. Get the next trade alert free.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/04/17/Tractor-Supply-Company-Store-Sign--Manas.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.839681"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.309399,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.533842",
+                    "ticker_sentiment_score": "0.582599",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "How Do Investors Really Feel About Tractor Supply? - Tractor Supply  ( NASDAQ:TSCO ) ",
+            "url": "https://www.benzinga.com/insights/short-sellers/25/04/44869937/how-do-investors-really-feel-about-tractor-supply",
+            "time_published": "20250417T160027",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Tractor Supply's TSCO short percent of float has fallen 14.13% since its last report. The company recently reported that it has 32.84 million shares sold short, which is 6.44% of all regular shares that are available for trading.",
+            "banner_image": "https://www.benzinga.com/files/images/story/2025/1744905623_0.png",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.413559"
+                }
+            ],
+            "overall_sentiment_score": 0.268794,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.203215",
+                    "ticker_sentiment_score": "0.077572",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "P/E Ratio Insights for Tractor Supply - Tractor Supply  ( NASDAQ:TSCO ) ",
+            "url": "https://www.benzinga.com/insights/news/25/04/44869934/pe-ratio-insights-for-tractor-supply",
+            "time_published": "20250417T160019",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "In the current market session, Tractor Supply Inc. TSCO price is at $50.20, after a 1.70% spike. However, over the past month, the stock fell by 3.26%, and in the past year, by 0.81%. Shareholders might be interested in knowing whether the stock is undervalued, even if the company is performing ...",
+            "banner_image": "https://www.benzinga.com/files/images/story/2025/1744905616_0.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.459462"
+                }
+            ],
+            "overall_sentiment_score": -0.021486,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.382925",
+                    "ticker_sentiment_score": "-0.133312",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Tractor Supply  ( TSCO )  Reports Next Week: What Awaits?",
+            "url": "https://www.zacks.com/stock/news/2450763/tractor-supply-tsco-reports-next-week-what-awaits",
+            "time_published": "20250417T140115",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Tractor Supply (TSCO) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default54.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                }
+            ],
+            "overall_sentiment_score": 0.138421,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.296463",
+                    "ticker_sentiment_score": "0.043885",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Target CEO Brian Cornell to meet with Al Sharpton to discuss DEI rollback",
+            "url": "https://www.cnbc.com/2025/04/17/target-ceo-to-meet-with-al-sharpton-after-dei-rollback.html",
+            "time_published": "20250417T110001",
+            "authors": [],
+            "summary": "Target CEO Brian Cornell will meet with the Rev. Al Sharpton as the company contends with a slump in foot traffic after walking back some DEI initiatives.",
+            "banner_image": null,
+            "source": "CNBC",
+            "category_within_source": "Business",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": -0.088437,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COST",
+                    "relevance_score": "0.103628",
+                    "ticker_sentiment_score": "-0.094216",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PEP",
+                    "relevance_score": "0.069194",
+                    "ticker_sentiment_score": "-0.035397",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MDNDF",
+                    "relevance_score": "0.03463",
+                    "ticker_sentiment_score": "-0.041715",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.03463",
+                    "ticker_sentiment_score": "-0.041715",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WMT",
+                    "relevance_score": "0.069194",
+                    "ticker_sentiment_score": "-0.006096",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "1 Top Dividend Stock Is on Sale",
+            "url": "https://www.fool.com/investing/2025/04/17/1-top-dividend-stock-is-on-sale/",
+            "time_published": "20250417T083100",
+            "authors": [
+                "Daniel Sparks"
+            ],
+            "summary": "Tractor Supply is a reliable dividend payer with a promising future, and recent weakness in the stock could be a gift to long-term investors.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/814950/tsco-stock-tractor-supply-earnings.jpeg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.972476"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                }
+            ],
+            "overall_sentiment_score": 0.288885,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.412861",
+                    "ticker_sentiment_score": "0.433936",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "March Retail Sales Exceed Forecasts, Analyst Notes Best-Performing Sectors - O'Reilly Automotive  ( NASDAQ:ORLY ) , Tractor Supply  ( NASDAQ:TSCO ) ",
+            "url": "https://www.benzinga.com/25/04/44850223/march-retail-sales-exceed-forecasts-says-analyst",
+            "time_published": "20250416T191923",
+            "authors": [
+                "Shivani Kumaresan"
+            ],
+            "summary": "March retail sales rose 4.6% YoY, exceeding expectations. O'Reilly Automotive to report strong Q1 sales growth. Feel unsure about the market's next move? Copy trade alerts from Matt Maley-a Wall Street veteran who consistently finds profits in volatile markets. Claim your 7-day free trial now.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/04/16/Selective-Focus-To-Edge-Of-Pos-Machine-W.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.329253,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.211191",
+                    "ticker_sentiment_score": "0.311361",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ORLY",
+                    "relevance_score": "0.312158",
+                    "ticker_sentiment_score": "0.482331",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Business school teaching case study: how can managers navigate the changing mood on DEI policies?",
+            "url": "https://www.ft.com/content/d1a2503f-5e4d-40a5-bcfc-825103e34af8",
+            "time_published": "20250415T033627",
+            "authors": [
+                "René Bakker"
+            ],
+            "summary": "The challenge is to understand stakeholder relationships and the broader social consequences of rollbacks ...",
+            "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb13d6825-2b77-457c-979d-a08ce28d1516.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+            "source": "Financial Times",
+            "category_within_source": "Companies",
+            "source_domain": "www.ft.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.040876,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COST",
+                    "relevance_score": "0.085173",
+                    "ticker_sentiment_score": "0.018659",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ACN",
+                    "relevance_score": "0.042647",
+                    "ticker_sentiment_score": "-0.079517",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MDNDF",
+                    "relevance_score": "0.042647",
+                    "ticker_sentiment_score": "-0.079517",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.042647",
+                    "ticker_sentiment_score": "-0.111833",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WMT",
+                    "relevance_score": "0.085173",
+                    "ticker_sentiment_score": "-0.008303",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Should You Buy Tractor Supply Stock Right Now?",
+            "url": "https://www.fool.com/investing/2025/04/12/should-you-buy-tractor-supply-stock-right-now/",
+            "time_published": "20250412T235041",
+            "authors": [
+                "CFA",
+                "Parkev Tatevosian"
+            ],
+            "summary": "With rising geopolitical tensions, investors are looking to defensive investments.*Stock prices used were the afternoon prices of April 10, 2025. The video was published on April 12, 2025.Continue reading ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/814673/retired-man-finances-laptop-review.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.407858,
+            "overall_sentiment_label": "Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.524949",
+                    "ticker_sentiment_score": "-0.530749",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "How to Play Tractor Supply Stock After 18% Drop in 6 Months?",
+            "url": "https://www.zacks.com/stock/news/2447958/how-to-play-tractor-supply-stock-after-18-drop-in-6-months",
+            "time_published": "20250411T155200",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "TSCO's growth engine is losing steam as rising costs and a tough retail climate weigh on its performance.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/9d/1384.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.996023"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.890401"
+                }
+            ],
+            "overall_sentiment_score": 0.195265,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "JWN",
+                    "relevance_score": "0.158781",
+                    "ticker_sentiment_score": "0.128411",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.311335",
+                    "ticker_sentiment_score": "0.07925",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "URBN",
+                    "relevance_score": "0.197735",
+                    "ticker_sentiment_score": "0.136255",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GAP",
+                    "relevance_score": "0.119433",
+                    "ticker_sentiment_score": "0.098514",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Tractor Supply's Growth Strategies Yield: Apt to Hold the Stock?",
+            "url": "https://www.zacks.com/stock/news/2440032/tractor-supplys-growth-strategies-yield-apt-to-hold-the-stock",
+            "time_published": "20250403T162500",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "TSCO benefits from its Life Out Here Strategy and the Neighbor's Club membership program.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/9d/1384.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.980922"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.917436"
+                }
+            ],
+            "overall_sentiment_score": 0.277781,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "JWN",
+                    "relevance_score": "0.160277",
+                    "ticker_sentiment_score": "0.170731",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.363009",
+                    "ticker_sentiment_score": "0.28904",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BOOT",
+                    "relevance_score": "0.160277",
+                    "ticker_sentiment_score": "0.173384",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "After Doubling, Is There Still Time to Buy Chewy Stock as Sales Soar?",
+            "url": "https://www.fool.com/investing/2025/03/30/after-doubling-time-to-buy-chewy-stock-sales/",
+            "time_published": "20250330T100500",
+            "authors": [
+                "Geoffrey Seiler"
+            ],
+            "summary": "One stock that has quietly been a very strong performer over the past year is Chewy ( NYSE: CHWY ) . Shares of the online pet products retailer rose following the release of its fiscal fourth-quarter results on Wednesday, with the stock up more than 120% over the past year as of this ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F812607%2Fgettyimages-1061437330.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.980922"
+                }
+            ],
+            "overall_sentiment_score": 0.264773,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CHWY",
+                    "relevance_score": "0.510588",
+                    "ticker_sentiment_score": "0.395543",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.109956",
+                    "ticker_sentiment_score": "0.143681",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WMT",
+                    "relevance_score": "0.109956",
+                    "ticker_sentiment_score": "0.143681",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Got $3,000? 3 Top Growth Stocks to Buy That Could Double Your Money.",
+            "url": "https://www.fool.com/investing/2025/03/29/got-3000-3-top-growth-stocks-to-buy-that-could-dou/",
+            "time_published": "20250329T072300",
+            "authors": [
+                "Royston Yang"
+            ],
+            "summary": "The key to growing your money is to invest it in well-run, high-quality growth stocks. These businesses should have a strong competitive edge and a solid track record of increasing their revenue, net income, and free cash flow.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F812233%2Fman-with-laptop-next-to-tractor.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999491"
+                }
+            ],
+            "overall_sentiment_score": 0.351705,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.229149",
+                    "ticker_sentiment_score": "0.22441",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "RL",
+                    "relevance_score": "0.153961",
+                    "ticker_sentiment_score": "0.227631",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ROL",
+                    "relevance_score": "0.265997",
+                    "ticker_sentiment_score": "0.062961",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "MAVTV Acquired, To Be Rebranded RACER, Creating the Most Followed, Diverse Motorsports Media Platform",
+            "url": "https://www.benzinga.com/pressreleases/25/03/n44524559/mavtv-acquired-to-be-rebranded-racer-creating-the-most-followed-diverse-motorsports-media-platform",
+            "time_published": "20250327T203000",
+            "authors": [
+                "PRNewswire"
+            ],
+            "summary": "IRVINE, Calif., March 27, 2025 /PRNewswire/ -- The lead investors behind North America's foremost motorsports news and information source RACER announced today that they have acquired MAVTV and will rename the TV network - that's available on 350 million devices - RACER to create the most ...",
+            "banner_image": "https://mma.prnewswire.com/media/2651887/RACER__Logo.jpg",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.305703,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAP",
+                    "relevance_score": "0.0362",
+                    "ticker_sentiment_score": "0.055852",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HD",
+                    "relevance_score": "0.0362",
+                    "ticker_sentiment_score": "0.055852",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.0362",
+                    "ticker_sentiment_score": "0.055852",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AZO",
+                    "relevance_score": "0.0362",
+                    "ticker_sentiment_score": "0.055852",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GM",
+                    "relevance_score": "0.0362",
+                    "ticker_sentiment_score": "0.021148",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WMT",
+                    "relevance_score": "0.0362",
+                    "ticker_sentiment_score": "0.055852",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Petco Health & Wellness  ( WOOF )  Reports Break-Even Earnings for Q4",
+            "url": "https://www.zacks.com/stock/news/2435923/petco-health-wellness-woof-reports-break-even-earnings-for-q4",
+            "time_published": "20250326T223502",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Petco (WOOF) delivered earnings and revenue surprises of -100% and 0.02%, respectively, for the quarter ended January 2025. Do the numbers hold clues to what lies ahead for the stock?",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default119.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999992"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                }
+            ],
+            "overall_sentiment_score": 0.093892,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.140076",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WOOF",
+                    "relevance_score": "0.40348",
+                    "ticker_sentiment_score": "0.063182",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Tractor Supply's Life Out Here Strategy & Other Efforts Progress Well",
+            "url": "https://www.zacks.com/stock/news/2430150/tractor-supplys-life-out-here-strategy-other-efforts-progress-well",
+            "time_published": "20250314T131100",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "TSCO benefits from its Life Out Here Strategy and the Neighbor's Club membership program.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/9d/1384.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.650727"
+                }
+            ],
+            "overall_sentiment_score": 0.4164,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "HD",
+                    "relevance_score": "0.100729",
+                    "ticker_sentiment_score": "0.365037",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.387374",
+                    "ticker_sentiment_score": "0.435413",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "CENT",
+                    "relevance_score": "0.100729",
+                    "ticker_sentiment_score": "0.220472",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Are Stock Splits Buy Signals?",
+            "url": "https://www.zacks.com/stock/news/2429397/are-stock-splits-buy-signals",
+            "time_published": "20250312T230500",
+            "authors": [
+                "Derek Lewis"
+            ],
+            "summary": "We've seen many notable splits in recent years as companies aim to increase liquidity within shares and erase barriers to entry for potential investors. But how should market participants react?",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/f8/14626.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.336175,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.236972",
+                    "ticker_sentiment_score": "0.016809",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PANW",
+                    "relevance_score": "0.236972",
+                    "ticker_sentiment_score": "-0.123077",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Dan Loeb Pulls Plug On Bath & Body Works Stake As Sales Decline - Bath & Body Works  ( NYSE:BBWI ) ",
+            "url": "https://www.benzinga.com/news/mid-cap/25/03/44261077/dan-loeb-pulls-the-plug-on-bath-body-works-stake-as-sales-decline",
+            "time_published": "20250311T192945",
+            "authors": [
+                "Lekha Gupta"
+            ],
+            "summary": "Dan Loeb exited his stake in Bath & Body Works ( BBWI ) in Q4 2024, having reduced his holdings in recent quarters. Analysts remain divided: JPMorgan upgraded to Overweight, while Telsey Advisory is cautious due to macro uncertainties. Find out which stock just claimed the top spot in the ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/11/Moscow--Russia--February-2021-A-Female-C.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.77141"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.103074,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.076358",
+                    "ticker_sentiment_score": "-0.020688",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.076358",
+                    "ticker_sentiment_score": "0.159047",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.076358",
+                    "ticker_sentiment_score": "-0.190614",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.152018",
+                    "ticker_sentiment_score": "-0.095815",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BBWI",
+                    "relevance_score": "0.611653",
+                    "ticker_sentiment_score": "0.071615",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DKS",
+                    "relevance_score": "0.152018",
+                    "ticker_sentiment_score": "-0.095815",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Redfin, Mineralys Therapeutics, Trevi Therapeutics And Other Big Stocks Moving Higher On Monday - The Campbell's  ( NASDAQ:CPB ) , Archer-Daniels Midland  ( NYSE:ADM ) ",
+            "url": "https://www.benzinga.com/trading-ideas/movers/25/03/44226513/redfin-mineralys-therapeutics-trevi-therapeutics-and-other-big-stocks-moving-higher-on-monda",
+            "time_published": "20250310T161507",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "U.S. stocks were lower, with the Nasdaq Composite falling around 650 points on Monday. Shares of Redfin Corporation RDFN rose sharply during Monday's session after Rocket Companies announced it will acquire the company in an all-stock transaction valued at $12.50 per share.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/10/Redfin--housing_0.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.2"
+                }
+            ],
+            "overall_sentiment_score": 0.276501,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "HOG",
+                    "relevance_score": "0.204072",
+                    "ticker_sentiment_score": "0.513869",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "STAA",
+                    "relevance_score": "0.204072",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ADM",
+                    "relevance_score": "0.204072",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LZMH",
+                    "relevance_score": "0.204072",
+                    "ticker_sentiment_score": "0.133254",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NSP",
+                    "relevance_score": "0.204072",
+                    "ticker_sentiment_score": "0.411539",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.204072",
+                    "ticker_sentiment_score": "0.513869",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "KTOS",
+                    "relevance_score": "0.204072",
+                    "ticker_sentiment_score": "0.261037",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PTGX",
+                    "relevance_score": "0.204072",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLAY",
+                    "relevance_score": "0.204072",
+                    "ticker_sentiment_score": "0.513869",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "VRN",
+                    "relevance_score": "0.204072",
+                    "ticker_sentiment_score": "0.280937",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TRVI",
+                    "relevance_score": "0.204072",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RDFN",
+                    "relevance_score": "0.56217",
+                    "ticker_sentiment_score": "0.437027",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "MLYS",
+                    "relevance_score": "0.204072",
+                    "ticker_sentiment_score": "0.117694",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Tractor Supply Maintains Margins While Funding Growth",
+            "url": "https://www.fool.com/investing/2025/03/05/tractor-supply-maintains-margins-while-funding-gro/",
+            "time_published": "20250305T131200",
+            "authors": [
+                "David Kretzmann"
+            ],
+            "summary": "Tractor Supply Company ( NASDAQ: TSCO ) held its fourth-quarter and fiscal-year 2024 earnings call on January 30, 2025. The company delivered record financial results and outlined its strategic growth initiatives. Management expressed confidence in its \"Life Out Here 2030\" strategy, which expands ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/809752/gettyimages-4688185901.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.875462"
+                }
+            ],
+            "overall_sentiment_score": 0.351764,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.36392",
+                    "ticker_sentiment_score": "0.431758",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "DKS vs. TSCO: Which Stock Is the Better Value Option?",
+            "url": "https://www.zacks.com/stock/news/2425328/dks-vs-tsco-which-stock-is-the-better-value-option",
+            "time_published": "20250304T164013",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Investors interested in Retail - Miscellaneous stocks are likely familiar with Dick's Sporting Goods ( DKS Quick QuoteDKS - ) and Tractor Supply ( TSCO Quick QuoteTSCO - ) . But which of these two companies is the best option for those looking for undervalued stocks? Let's take a closer look.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default141.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.614606"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.497869,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.69701",
+                    "ticker_sentiment_score": "0.559291",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "DKS",
+                    "relevance_score": "0.753462",
+                    "ticker_sentiment_score": "0.574043",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Tractor Supply's Growth Strategies Look Good: Apt to Hold the Stock?",
+            "url": "https://www.zacks.com/stock/news/2425274/tractor-supplys-growth-strategies-look-good-apt-to-hold-the-stock",
+            "time_published": "20250304T155400",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "TSCO benefits from its Life Out Here Strategy and the Neighbor's Club membership program.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/9d/1384.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.980922"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.917436"
+                }
+            ],
+            "overall_sentiment_score": 0.294146,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.44622",
+                    "ticker_sentiment_score": "0.346483",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BOOT",
+                    "relevance_score": "0.156461",
+                    "ticker_sentiment_score": "0.179929",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "URBN",
+                    "relevance_score": "0.257805",
+                    "ticker_sentiment_score": "0.247834",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "DKS or TSCO: Which Is the Better Value Stock Right Now?",
+            "url": "https://www.zacks.com/stock/news/2424609/dks-or-tsco-which-is-the-better-value-stock-right-now",
+            "time_published": "20250303T164027",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "DKS vs. TSCO: Which Stock Is the Better Value Option?",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default162.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.890401"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.482869,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.674691",
+                    "ticker_sentiment_score": "0.578404",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "DKS",
+                    "relevance_score": "0.781119",
+                    "ticker_sentiment_score": "0.606447",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Bath & Body Works Gears Up for Q4 Earnings: Key Factors to Note",
+            "url": "https://www.zacks.com/stock/news/2421310/bath-body-works-gears-up-for-q4-earnings-key-factors-to-note",
+            "time_published": "20250225T153100",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "BBWI's fourth-quarter results are likely to be impacted by a tough fiscal comparison, including the loss of the 53rd week and fewer holiday shopping days.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/76/3199.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999994"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.744043"
+                }
+            ],
+            "overall_sentiment_score": 0.124831,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ULTA",
+                    "relevance_score": "0.184951",
+                    "ticker_sentiment_score": "-0.090096",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.184951",
+                    "ticker_sentiment_score": "0.11663",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BBWI",
+                    "relevance_score": "0.441315",
+                    "ticker_sentiment_score": "0.261898",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "DKS",
+                    "relevance_score": "0.230017",
+                    "ticker_sentiment_score": "0.045515",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "The Zacks Analyst Blog Highlights Broadcom, Thermo Fisher Scientific, Aon and Massimo",
+            "url": "https://www.zacks.com/stock/news/2419256/the-zacks-analyst-blog-highlights-broadcom-thermo-fisher-scientific-aon-and-massimo",
+            "time_published": "20250221T100000",
+            "authors": [
+                "Zacks Investment Research"
+            ],
+            "summary": "Broadcom, Thermo Fisher Scientific, Aon and Massimo are included in this Analyst Blog.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/39/1249.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.18315,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AON",
+                    "relevance_score": "0.187705",
+                    "ticker_sentiment_score": "0.147434",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BTOC",
+                    "relevance_score": "0.063091",
+                    "ticker_sentiment_score": "0.14644",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.125789",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.063091",
+                    "ticker_sentiment_score": "0.14644",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MAMO",
+                    "relevance_score": "0.187705",
+                    "ticker_sentiment_score": "0.086158",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TMO",
+                    "relevance_score": "0.125789",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Top Stock Reports for Broadcom, Thermo Fisher & Aon",
+            "url": "https://www.zacks.com/research-daily/2418520/top-stock-reports-for-broadcom-thermo-fisher-aon",
+            "time_published": "20250220T221300",
+            "authors": [
+                "Mark Vickery"
+            ],
+            "summary": "Today's Research Daily features new research reports on 16 major stocks, including Broadcom Inc. (AVGO), Thermo Fisher Scientific Inc. (TMO) and Aon plc (AON), as well as a micro-cap stock, Massimo Group (MAMO).",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/75/1256.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.184395,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AON",
+                    "relevance_score": "0.076602",
+                    "ticker_sentiment_score": "0.219249",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.076602",
+                    "ticker_sentiment_score": "0.148898",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BTOC",
+                    "relevance_score": "0.076602",
+                    "ticker_sentiment_score": "0.148898",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Tractor Supply Gains 22.8% in a Year: Buy or Hold the Stock?",
+            "url": "https://www.zacks.com/stock/news/2417514/tractor-supply-gains-228-in-a-year-buy-or-hold-the-stock",
+            "time_published": "20250218T163000",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "TSCO benefits from its Life Out Here Strategy and the Neighbor's Club membership program.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/9d/1384.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.54554"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.917436"
+                }
+            ],
+            "overall_sentiment_score": 0.290115,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSCO",
+                    "relevance_score": "0.523995",
+                    "ticker_sentiment_score": "0.368858",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "BOOT",
+                    "relevance_score": "0.154125",
+                    "ticker_sentiment_score": "0.132904",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "URBN",
+                    "relevance_score": "0.254042",
+                    "ticker_sentiment_score": "0.179017",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        }
+    ]
+}

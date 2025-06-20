@@ -1,0 +1,7 @@
+#!env bash
+
+DATE=`date +%s`
+SYMBOL=$1
+
+curl -sS -v "https://www.alphavantage.co/query?function=NEWS_SENTIMENT&tickers=${SYMBOL}&apikey=${ALPHAVANTAGE_API_KEY}" \
+  -o "data/sentiment.${SYMBOL}.${DATE}.json" 2> "data/sentiment.${SYMBOL}.${DATE}.log"
