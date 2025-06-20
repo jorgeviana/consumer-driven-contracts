@@ -1,5 +1,6 @@
 import Image from "next/image";
 import EquityChart from "./EquityChart";
+import SentimentPanel from "@/app/SentimentPanel";
 
 export default function Home() {
   return (
@@ -26,7 +27,14 @@ export default function Home() {
           </li>
         </ol>
 
-        <EquityChart />
+        <div className="grid grid-cols-2 gap-8">
+          <div>
+            <EquityChart />
+          </div>
+          <div className="space-y-6">
+            <SentimentPanel />
+          </div>
+        </div>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a
