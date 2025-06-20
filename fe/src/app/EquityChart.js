@@ -7,14 +7,14 @@ import equityData from "./equityData";
 
 const options = {
     title: {
-        text: 'Stock Price Data',
+        text: 'Equity Price Data',
         align: 'left',
     },
     xaxis: {
         type: 'datetime',
     },
-    tooltip: {
-        theme: "dark",
+    theme: {
+        mode: 'dark'
     },
 };
 
