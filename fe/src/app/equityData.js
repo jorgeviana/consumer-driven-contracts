@@ -1,20 +1,23 @@
-export default function equityData() {
+import 'whatwg-fetch';
+
+export default async function equityData() {
     // TODO add support for env vars with cross-env
     const isFake = process.env.NEXT_PUBLIC_USE_FAKE_DATA === 'true';
     if (isFake) {
-        return fetchFakeData();
+        const dataPoints = await fetchFromServer();
+        return dataPoints.map(p => transform(p));
     }
     else {
-        // in tests this branch is selected!
-        // throw new Error('Not yet implemented!');
-        return fetchFakeData();
+        const dataPoints = await data();
+        return dataPoints.map(p => transform(p));
     }
 }
 
-async function fetchFakeData() {
-    await delay(300);
-    const dataPoints = await fetchFromServer();
-    return dataPoints.map(p => transform(p));
+
+async function data() {
+  const data = await fetch(`http://localhost:1234/api/equity/LON/TSCO`);
+  const dataPoints = await data.json();
+  return dataPoints;
 }
 
 function transform({date, price}) {
@@ -25,7 +28,8 @@ function transform({date, price}) {
 }
 
 
-function fetchFromServer() {
+async function fetchFromServer() {
+    await delay(300);
     return [
         {
             date: "2023, 11, 1",
