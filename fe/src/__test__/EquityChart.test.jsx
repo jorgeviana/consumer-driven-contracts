@@ -60,36 +60,36 @@ describe('Equity component', () => {
     });
 
     it('renders chart', async () => {
-        await provider.addInteraction({
-                    state: 'equity exists',
-                    uponReceiving: 'a request for LON.TSCO',
-                    withRequest: {
-                        method: 'GET',
-                        path: '/api/equity/LON/TSCO',
-                    },
-                    willRespondWith: {
-                        status: 200,
-                        headers: { 'Content-Type': 'application/json' },
-                        body: [
-        {
-            date: "2023, 11, 1",
-            price: {open: 51.98, high: 56.30, low: 51.59, close: 53.84}
+      await provider.addInteraction({
+        state: 'equity exists',
+        uponReceiving: 'a request for LON.TSCO',
+        withRequest: {
+          method: 'GET',
+          path: '/api/equity/LON/TSCO',
         },
-        {
-            date: "2023, 11, 2",
-            price: {open: 53.66, high: 54.99, low: 51.35, close: 52.95},
+        willRespondWith: {
+          status: 200,
+          headers: { 'Content-Type': 'application/json' },
+          body: [
+            {
+              date: "2023, 11, 1",
+              price: { open: 51.98, high: 56.30, low: 51.59, close: 53.84 }
+            },
+            {
+              date: "2023, 11, 2",
+              price: { open: 53.66, high: 54.99, low: 51.35, close: 52.95 },
+            },
+            {
+              date: "2023, 11, 3",
+              price: { open: 52.76, high: 57.35, low: 52.15, close: 55.42 },
+            },
+            {
+              date: "2023, 11, 4",
+              price: { open: 55.27, high: 59.1, low: 53.91, close: 56.97 },
+            },
+          ],
         },
-        {
-            date: "2023, 11, 3",
-            price: {open: 52.76, high: 57.35, low: 52.15, close: 55.42},
-        },
-        {
-            date: "2023, 11, 4",
-            price: {open: 55.27, high: 59.1, low: 53.91, close: 56.97},
-        },
-    ],
-                    },
-                });
+      });
 
         render(<EquityChart port={port}/>);
 
