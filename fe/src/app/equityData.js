@@ -1,23 +1,23 @@
 import 'whatwg-fetch';
 
-export default async function equityData() {
+export default async function equityData(port) {
     const isFake = process.env.NEXT_PUBLIC_USE_FAKE_DATA === 'true';
     if (isFake) {
-        return await fetchAndTransform(fakeServerData);
+        return await fetchAndTransform(port, fakeServerData);
     }
     else {
-        return await fetchAndTransform();
+        return await fetchAndTransform(port);
     }
 }
 
 
-async function fetchAndTransform(fake) {
-  const dataPoints = fake ? await fake() : await data();
+async function fetchAndTransform(port, fake) {
+  const dataPoints = fake ? await fake() : await data(port);
   return dataPoints.map(p => transform(p));
 }
 
-async function data() {
-  const data = await fetch(`http://localhost:1234/api/equity/LON/TSCO`);
+async function data(port) {
+  const data = await fetch(`http://localhost:${port}/api/equity/LON/TSCO`);
   const dataPoints = data.json();
   return dataPoints;
 }

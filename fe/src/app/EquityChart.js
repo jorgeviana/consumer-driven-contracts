@@ -18,7 +18,7 @@ const options = {
     },
 };
 
-export default function EquityChart({fetchDataAction}) {
+export default function EquityChart({fetchDataAction, port}) {
 
     const [axisData, setAxisData] = useState(null)
     const [error, setError] = useState(null)
@@ -27,7 +27,7 @@ export default function EquityChart({fetchDataAction}) {
         const fetchCommand = fetchDataAction ? fetchDataAction : equityData;
 
         async function fetchData() {
-            return await fetchCommand();
+            return await fetchCommand(port);
         }
 
         fetchData()

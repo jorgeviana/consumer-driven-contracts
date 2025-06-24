@@ -32,7 +32,7 @@ if (!SVGElement.prototype.getBBox) {
 const provider = new Pact({
     consumer: 'frontend-app',
     provider: 'spring-api',
-    port: 1234,
+    port: 0,
     log: path.resolve('..', 'logs', 'pact.log'),
     dir: path.resolve('..','pacts'),
     logLevel: 'INFO',
@@ -91,7 +91,7 @@ describe('Equity component', () => {
                     },
                 });
 
-        render(<EquityChart/>);
+        render(<EquityChart port={port}/>);
 
         const chart = await screen.findByText(/equity price data/i);
         expect(chart).toBeInTheDocument();
