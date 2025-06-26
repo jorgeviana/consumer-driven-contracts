@@ -48,7 +48,6 @@ describe('Equity component', () => {
         
     });
     afterAll(async() => {
-      await provider.verify();
       provider.finalize();
     });
 
@@ -95,6 +94,7 @@ describe('Equity component', () => {
 
         const chart = await screen.findByText(/equity price data/i);
         expect(chart).toBeInTheDocument();
+        await provider.verify();
     });
 
     it('renders error', async () => {
@@ -104,5 +104,29 @@ describe('Equity component', () => {
 
         const chart = await screen.findByText(/error loading data from server/i);
         expect(chart).toBeInTheDocument();
-    })
+    });
+
+    it('equity not found', async () => {
+        await provider.addInteraction({
+        state: 'equity does not exist',
+        uponReceiving: 'a request for not found',
+        withRequest: {
+          method: 'GET',
+          path: '/api/equity/NOT/FOUND',
+        },
+        willRespondWith: {
+          status: 404,
+          headers: { 'Content-Type': 'application/json' },
+          body: {
+            error: "not existing equity NOT.FOUND"
+          },
+        },
+      });
+
+        render(<EquityChart exchangeCode={"NOT"} equityCode={"FOUND"} port={port} />);
+
+        const chart = await screen.findByText(/error loading data from server/i);
+        expect(chart).toBeInTheDocument();
+        await provider.verify();
+    });
 })

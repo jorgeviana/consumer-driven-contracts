@@ -4,21 +4,72 @@
   },
   "interactions": [
     {
-      "description": "a request for user 1",
-      "providerState": "user exists",
+      "description": "a request for LON.TSCO",
+      "providerState": "equity exists",
       "request": {
         "method": "GET",
-        "path": "/api/users/1"
+        "path": "/api/equity/LON/TSCO"
       },
       "response": {
-        "body": {
-          "id": 1,
-          "name": "Alice"
-        },
+        "body": [
+          {
+            "date": "2023, 11, 1",
+            "price": {
+              "close": 53.84,
+              "high": 56.3,
+              "low": 51.59,
+              "open": 51.98
+            }
+          },
+          {
+            "date": "2023, 11, 2",
+            "price": {
+              "close": 52.95,
+              "high": 54.99,
+              "low": 51.35,
+              "open": 53.66
+            }
+          },
+          {
+            "date": "2023, 11, 3",
+            "price": {
+              "close": 55.42,
+              "high": 57.35,
+              "low": 52.15,
+              "open": 52.76
+            }
+          },
+          {
+            "date": "2023, 11, 4",
+            "price": {
+              "close": 56.97,
+              "high": 59.1,
+              "low": 53.91,
+              "open": 55.27
+            }
+          }
+        ],
         "headers": {
           "Content-Type": "application/json"
         },
         "status": 200
+      }
+    },
+    {
+      "description": "a request for not found",
+      "providerState": "equity does not exist",
+      "request": {
+        "method": "GET",
+        "path": "/api/equity/NOT/FOUND"
+      },
+      "response": {
+        "body": {
+          "error": "not existing equity NOT.FOUND"
+        },
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "status": 404
       }
     }
   ],
