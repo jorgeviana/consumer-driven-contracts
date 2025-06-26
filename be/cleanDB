@@ -1,0 +1,4 @@
+#!env bash
+
+docker-compose down
+docker volume rm be_mongo-data
