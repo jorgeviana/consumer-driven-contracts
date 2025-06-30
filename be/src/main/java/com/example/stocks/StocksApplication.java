@@ -11,6 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
+import org.springframework.security.config.Customizer;
 import org.springframework.security.config.annotation.authentication.configuration.AuthenticationConfiguration;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.core.Authentication;
@@ -26,6 +27,7 @@ import org.springframework.security.web.authentication.UsernamePasswordAuthentic
 import org.springframework.security.web.authentication.WebAuthenticationDetailsSource;
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -49,11 +51,11 @@ public class StocksApplication {
     UserDetailsService userDetailsService(PasswordEncoder passwordEncoder) {
         return new InMemoryUserDetailsManager(
             User.withUsername("alice")
-                .password(passwordEncoder.encode("password123"))
+                .password(passwordEncoder.encode("pass"))
                 .roles("USER")
                 .build(),
             User.withUsername("admin")
-                .password(passwordEncoder.encode("adminpass"))
+                .password(passwordEncoder.encode("admin"))
                 .roles("ADMIN")
                 .build()
         );
@@ -72,6 +74,7 @@ public class StocksApplication {
     @Bean
     public SecurityFilterChain securityFilterChain(HttpSecurity http, JwtAuthFilter jwtAuthFilter) throws Exception {
         return http
+            .cors(Customizer.withDefaults())
             .csrf(csrf -> csrf.disable()) // Disable CSRF for APIs (or customize it)
             .authorizeHttpRequests(auth -> auth
                 .requestMatchers("/api/auth/**").permitAll()
@@ -121,6 +124,7 @@ class JwtService {
 }
 
 @RestController
+@CrossOrigin("*")
 @RequestMapping("api/auth")
 class AuthController {
 

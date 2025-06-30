@@ -4,6 +4,7 @@ import {useEffect, useState} from 'react';
 import dynamic from "next/dynamic";
 const Chart = dynamic(() => import("react-apexcharts"), {ssr: false});
 import equityData from "./equityData.ts";
+import {useUser} from '../context/UserContext';
 
 const options = {
     title: {
@@ -26,11 +27,13 @@ export default function EquityChart({fetchDataAction, port, exchangeCode, equity
     const exchange= exchangeCode ? exchangeCode : "LON";
     const equity= equityCode? equityCode : "TSCO";
 
+    const { user } = useUser();
+
     useEffect(() => {
         const fetchCommand = fetchDataAction ? fetchDataAction : equityData;
 
         async function fetchData() {
-            return await fetchCommand(port ? port : 8080, exchange, equity);
+            return await fetchCommand(port ? port : 8080, exchange, equity, user.token);
         }
 
         fetchData()

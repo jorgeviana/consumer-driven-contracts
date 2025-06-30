@@ -1,23 +1,29 @@
 import 'whatwg-fetch';
 
-export default async function equityData(port: number, exchange: string, equity: string): Promise<AxisData[]> {
+export default async function equityData(port: number, exchange: string, equity: string, token: string): Promise<AxisData[]> {
     const isFake = process.env.NEXT_PUBLIC_USE_FAKE_DATA === 'true';
     if (isFake) {
-        return fetchAndTransform(port, exchange, equity, fakeServerData);
+        return fetchAndTransform(port, exchange, equity, token, fakeServerData);
     }
     else {
-        return await fetchAndTransform(port, exchange, equity);
+        return await fetchAndTransform(port, exchange, equity, token);
     }
 }
 
 
-async function fetchAndTransform(port: number, exchange: string, equity: string, fake?: () => Promise<DataPoint[]>): Promise<AxisData[]> {
-  const dataPoints: DataPoint[] = fake ? await fake() : await data(port, exchange, equity);
+async function fetchAndTransform(port: number, exchange: string, equity: string, token: string, fake?: () => Promise<DataPoint[]>): Promise<AxisData[]> {
+  const dataPoints: DataPoint[] = fake ? await fake() : await data(port, exchange, equity, token);
   return dataPoints.map(p => transform(p));
 }
 
-async function data(port: number, exchange: string, equity: string): Promise<DataPoint[]> {
-  const response: Response = await fetch(`http://localhost:${port}/api/equity/${exchange}/${equity}`);
+async function data(port: number, exchange: string, equity: string, token: string): Promise<DataPoint[]> {
+  const response: Response = await fetch(`http://localhost:${port}/api/equity/${exchange}/${equity}`, {
+    method: 'GET',
+    headers: {
+    'Authorization': 'Bearer ' + token,
+    'Content-Type': 'application/json'
+  }
+  });
   if (!response.ok) {
     throw new Error('not ok status code in response: ' + response.status);
   }
