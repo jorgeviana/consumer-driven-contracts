@@ -25,9 +25,9 @@ export default function EquitySelector({ fetchDataAction, port, exchangeCode, eq
       </form>
 
       {submitted !== null && (<>
-        <EquityChart exchangeCode={submitted.split(".")[0]} equityCode={submitted.split(".")[1]}></EquityChart>
+        <EquityChart exchangeCode={submitted.split(".")[0]} equityCode={submitted.split(".")[1]} />
         <div className="space-y-6">
-          <SentimentPanel />
+          <SentimentPanel exchangeCode={submitted.split(".")[0]} equityCode={submitted.split(".")[1]} />
         </div>
       </>)}
 

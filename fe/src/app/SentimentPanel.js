@@ -3,12 +3,19 @@
 import {useEffect, useState} from 'react';
 import sentimentData from "./sentimentData";
 
-export default function SentimentPanel() {
+export default function SentimentPanel({exchangeCode, equityCode}) {
 
     const [sentiments, setSentiments] = useState(null)
     const [error, setError] = useState(null)
 
     useEffect(() => {
+
+      if (exchangeCode != 'NDX') {
+        setSentiments([]);
+        setError(null);
+        return;
+      }
+
         const fetchCommand = sentimentData;
 
         async function fetchData() {
@@ -17,8 +24,9 @@ export default function SentimentPanel() {
 
         fetchData()
             .then(setSentiments)
+            .then(d => setError(null))
             .catch(setError);
-    }, []);
+    }, [exchangeCode]);
 
     if (error) return <>Error loading data from server!</>
 
