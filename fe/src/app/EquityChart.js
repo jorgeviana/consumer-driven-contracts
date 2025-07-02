@@ -24,8 +24,8 @@ export default function EquityChart({fetchDataAction, port, exchangeCode, equity
     const [axisData, setAxisData] = useState(null)
     const [error, setError] = useState(null)
 
-    const exchange= exchangeCode ? exchangeCode : "LON";
-    const equity= equityCode? equityCode : "TSCO";
+    // const [exchange, setExchange] = useState(exchangeCode ? exchangeCode : "LON");
+    // const [equity, setEquity] = useState(equityCode? equityCode : "TSCO");
 
     const { user } = useUser();
 
@@ -33,13 +33,14 @@ export default function EquityChart({fetchDataAction, port, exchangeCode, equity
         const fetchCommand = fetchDataAction ? fetchDataAction : equityData;
 
         async function fetchData() {
-            return await fetchCommand(port ? port : 8080, exchange, equity, user.token);
+            return await fetchCommand(port ? port : 8080, exchangeCode, equityCode, user.token);
         }
 
         fetchData()
             .then(setAxisData)
+            .then(d => setError(null))
             .catch(setError);
-    }, []);
+    }, [exchangeCode, equityCode]);
 
     if (error) return <>Error loading data from server!</>
 
