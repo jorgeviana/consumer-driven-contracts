@@ -18,16 +18,14 @@ class StockService {
     record EquityDto(
         String date,
         Price price
-    ) {
-    }
+    ) {}
 
     record Price(
         double open,
         double high,
         double low,
         double close
-    ) {
-    }
+    ) {}
 
     private static final Logger log = LoggerFactory.getLogger(StockService.class);
 

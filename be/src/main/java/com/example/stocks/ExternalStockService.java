@@ -4,7 +4,6 @@ import com.example.stocks.StockRepository.Stock;
 import com.fasterxml.jackson.annotation.JsonAlias;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
-import java.util.List;
 import java.util.Map;
 
 public interface ExternalStockService {
@@ -12,15 +11,6 @@ public interface ExternalStockService {
     // TODO what external returns when stock is not found? Optional or Exception in our code?
     // TODO test this -^ as currently the FE displays empty chart for the null
     StockData getStockData(Stock stock);
-
-    // TODO top 10 only
-    List<Sentiment> getSentiment(Stock stock);
-
-    record Sentiment(
-        String title,
-        String url,
-        double overall_sentiment_score
-    ) {}
 
     record StockData(
         String symbol,
